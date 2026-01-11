@@ -14,9 +14,7 @@ This repository contains a machine learning project aimed at predicting whether 
 │   ├── Modeling.ipynb              # Notebook for modeling and evaluation
 │   └── Stacking_Model.ipynb        # Notebook for stacking models
 ├── requirements.txt                # List of required packages
-├── README.md                      # This file
-├── LICENSE                        # License information
-└── .gitignore                     # Git ignore file
+├── README.md                      # This file└── .gitignore                     # Git ignore file
 
 ## Dependencies
 
